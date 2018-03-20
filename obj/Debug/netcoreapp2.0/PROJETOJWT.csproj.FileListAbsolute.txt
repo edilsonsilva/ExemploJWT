@@ -1,0 +1,10 @@
+C:\Users\Edilson\Desktop\Desktop\PROJETOJWT\obj\Debug\netcoreapp2.0\PROJETOJWT.csproj.CoreCompileInputs.cache
+C:\Users\Edilson\Desktop\Desktop\PROJETOJWT\obj\Debug\netcoreapp2.0\PROJETOJWT.AssemblyInfoInputs.cache
+C:\Users\Edilson\Desktop\Desktop\PROJETOJWT\obj\Debug\netcoreapp2.0\PROJETOJWT.AssemblyInfo.cs
+C:\Users\Edilson\Desktop\Desktop\PROJETOJWT\bin\Debug\netcoreapp2.0\PROJETOJWT.deps.json
+C:\Users\Edilson\Desktop\Desktop\PROJETOJWT\bin\Debug\netcoreapp2.0\PROJETOJWT.runtimeconfig.json
+C:\Users\Edilson\Desktop\Desktop\PROJETOJWT\bin\Debug\netcoreapp2.0\PROJETOJWT.runtimeconfig.dev.json
+C:\Users\Edilson\Desktop\Desktop\PROJETOJWT\bin\Debug\netcoreapp2.0\PROJETOJWT.dll
+C:\Users\Edilson\Desktop\Desktop\PROJETOJWT\bin\Debug\netcoreapp2.0\PROJETOJWT.pdb
+C:\Users\Edilson\Desktop\Desktop\PROJETOJWT\obj\Debug\netcoreapp2.0\PROJETOJWT.dll
+C:\Users\Edilson\Desktop\Desktop\PROJETOJWT\obj\Debug\netcoreapp2.0\PROJETOJWT.pdb
